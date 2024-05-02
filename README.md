@@ -4,7 +4,7 @@
 2. 🚀 **ADICIONADAS NOVAS CHAMADAS DE API NO HTML**
    - `DtAirplaneActivate.execute()` // ATIVA O MODO AVIÃO
    - `DtAirplaneDeactivate.execute()` // DESATIVA O MODO AVIÃO
-   - `DtAirplaneState.execute()` // ATIVO ou INATIVO
+   - `DtAirplaneState.execute()` // RETORNA ATIVO ou INATIVO
 3. 🚀 **MELHORIAS NA EXIBIÇÃO DO IP LOCAL E DO NOME DA REDE NATIVA**
 
 
