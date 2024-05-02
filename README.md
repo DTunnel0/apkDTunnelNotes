@@ -1,3 +1,13 @@
+### 🔥🚀 **DTUNNEL 4.3.1 - OFICIAL** 🔥🚀
+
+1. 🚀 **ADICIONADO MODO AVIÃO AUTOMÁTICO E MANUAL**
+2. 🚀 **ADICIONADAS NOVAS CHAMADAS DE API NO HTML**
+   - `DtAirplaneActivate.execute()` // ATIVA O MODO AVIÃO
+   - `DtAirplaneDeactivate.execute()` // DESATIVA O MODO AVIÃO
+   - `DtAirplaneState.execute()` // ATIVO ou INATIVO
+3. 🚀 **MELHORIAS NA EXIBIÇÃO DO IP LOCAL E DO NOME DA REDE NATIVA**
+
+
 ### 🔥🚀 **DTUNNEL 4.2.8 - OFICIAL** 🔥🚀
 1. 🔄 **ADICIONADO SERVICO DE PING**
 2. 🛠 **SUPORTE A CONFIGURAÇÕES V2AY JSON**
