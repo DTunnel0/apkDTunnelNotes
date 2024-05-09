@@ -1,5 +1,3 @@
-Claro, aqui está uma versão revisada das notas:
-
 ### 🔥🚀 **DTUNNEL 4.3+ - OFICIAL** 🔥🚀
 
 1. 🚀 **Adicionado Modo Avião Automático e Manual**
