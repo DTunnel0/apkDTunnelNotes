@@ -1,11 +1,24 @@
-### 🔥🚀 **DTUNNEL 4.3.1 - OFICIAL** 🔥🚀
+Claro, aqui está uma versão revisada das notas:
 
-1. 🚀 **ADICIONADO MODO AVIÃO AUTOMÁTICO E MANUAL**
-2. 🚀 **ADICIONADAS NOVAS CHAMADAS DE API NO HTML**
-   - `DtAirplaneActivate.execute()` // ATIVA O MODO AVIÃO
-   - `DtAirplaneDeactivate.execute()` // DESATIVA O MODO AVIÃO
-   - `DtAirplaneState.execute()` // RETORNA ATIVO ou INATIVO
-3. 🚀 **MELHORIAS NA EXIBIÇÃO DO IP LOCAL E DO NOME DA REDE NATIVA**
+### 🔥🚀 **DTUNNEL 4.3+ - OFICIAL** 🔥🚀
+
+1. 🚀 **Adicionado Modo Avião Automático e Manual**
+   - Agora você pode ativar e desativar o modo avião automaticamente ou manualmente, proporcionando mais controle sobre suas conexões.
+
+2. 🚀 **Adicionadas Novas Chamadas de API no HTML**
+   - `DtAirplaneActivate.execute()` // Ativa o Modo Avião
+   - `DtAirplaneDeactivate.execute()` // Desativa o Modo Avião
+   - `DtAirplaneState.execute()` // Retorna Ativo ou Inativo
+   - Aproveite estas novas funções para integrar e controlar o modo avião em sua aplicação de forma mais eficiente.
+
+3. 🚀 **Melhorias na Exibição do IP Local e do Nome da Rede Nativa**
+   - Agora, a exibição do IP local e do nome da rede nativa foi aprimorada, proporcionando uma experiência mais clara e precisa.
+
+4. 🚀 **Remoção da Funcionalidade de Atualização de Base via URL**
+   - A funcionalidade de atualização de base via URL foi removida para atender aos requisitos da Play Store, que agora exige a instalação de pacotes apenas de fontes conhecidas, aumentando assim a segurança do aplicativo.
+
+5. 🚀 **Melhorias no Modo Avião - Removida a Obrigatoriedade de Ativar o Assistente**
+   - Agora, embora ainda seja necessário ativar o assistente para utilizar o modo avião, não há mais a necessidade de forçar o usuário a fazer essa ativação, tornando o processo mais flexível e intuitivo.
 
 
 ### 🔥🚀 **DTUNNEL 4.2.8 - OFICIAL** 🔥🚀
