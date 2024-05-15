@@ -6,7 +6,9 @@
 2. 🚀 **Adicionadas Novas Chamadas de API no HTML**
    - `DtAirplaneActivate.execute()` // Ativa o Modo Avião
    - `DtAirplaneDeactivate.execute()` // Desativa o Modo Avião
-   - `DtAirplaneState.execute()` // Retorna Ativo ou Inativo
+   - `DtAirplaneState.execute()` // Retorna ACTIVE ou INACTIVE
+   - `DtAppIsCurrentAssistant.execute()` // Retorna ENABLED ou DISABLED
+   - `DtGoToVoiceInputSettings.execute()` // Leva para as configurações de assistente
    - Aproveite estas novas funções para integrar e controlar o modo avião em sua aplicação de forma mais eficiente.
 
 3. 🚀 **Melhorias na Exibição do IP Local e do Nome da Rede Nativa**
