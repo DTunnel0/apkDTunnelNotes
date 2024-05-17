@@ -9,6 +9,8 @@
    - `DtAirplaneState.execute()` // Retorna ACTIVE ou INACTIVE
    - `DtAppIsCurrentAssistant.execute()` // Retorna ENABLED ou DISABLED
    - `DtGoToVoiceInputSettings.execute()` // Leva para as configurações de assistente
+   - `DtAppVersion.execute()` // Retorna a versao atual do app
+   - `DtShowMenuDialog.execute()` // Exibe o menu nativo  com ferramentas
    - Aproveite estas novas funções para integrar e controlar o modo avião em sua aplicação de forma mais eficiente.
 
 3. 🚀 **Melhorias na Exibição do IP Local e do Nome da Rede Nativa**
@@ -18,8 +20,11 @@
    - A funcionalidade de atualização de base via URL foi removida para atender aos requisitos da Play Store, que agora exige a instalação de pacotes apenas de fontes conhecidas, aumentando assim a segurança do aplicativo.
 
 5. 🚀 **Melhorias no Modo Avião - Removida a Obrigatoriedade de Ativar o Assistente**
-   - Agora, embora ainda seja necessário ativar o assistente para utilizar o modo avião, não há mais a necessidade de forçar o usuário a fazer essa ativação, tornando o processo mais flexível e intuitivo.
+   - Embora ainda seja necessário ativar o assistente para utilizar o modo avião, não há mais a necessidade de forçar o usuário a fazer essa ativação, tornando o processo mais flexível e intuitivo.
+   - Agora o app não chama mais o assistante do google.
 
+6. 🚀 **Adicionado um menu com ferramentas**
+   - Agora no layout nativo voce um menu com ferramentas.
 
 ### 🔥🚀 **DTUNNEL 4.2.8 - OFICIAL** 🔥🚀
 1. 🔄 **ADICIONADO SERVICO DE PING**
