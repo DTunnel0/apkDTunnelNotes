@@ -26,6 +26,8 @@
 6. 🚀 **Adicionado um menu com ferramentas**
    - Agora no layout nativo voce um menu com ferramentas.
 
+7. 🚀 **Removido travamentos e crash em config. v2ray**
+
 ### 🔥🚀 **DTUNNEL 4.2.8 - OFICIAL** 🔥🚀
 1. 🔄 **ADICIONADO SERVICO DE PING**
 2. 🛠 **SUPORTE A CONFIGURAÇÕES V2AY JSON**
