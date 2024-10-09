@@ -1,3 +1,11 @@
+### 🔥🚀 **DTUNNEL 4.3.9 - OFICIAL** 🔥🚀
+
+1. 🚀 **Novo sistema para pegar o ID do dispositivo**
+2. 🚀 **Removido o Prefixo 'Android' do JavaScript**
+3. 🚀 **Adicionadas Novas Chamadas de API no HTML**
+   - `DtSendNotification.execute(TITLE, MESSAGE, IMAGE_URL)` - Envia uma notificação para sistema nativo do Android.
+4. 🚀 **Mais melhorias internas...**
+
 ### 🔥🚀 **DTUNNEL 4.3+ - OFICIAL** 🔥🚀
 
 1. 🚀 **Adicionado Modo Avião Automático e Manual**
