@@ -5,7 +5,8 @@
 3. 🚀 **Adicionadas Novas Chamadas de API no HTML**
    - `DtSendNotification.execute(TITLE, MESSAGE, IMAGE_URL)` - Envia uma notificação para sistema nativo do Android.
 4. 🚀 **O aplicativo agora envia o nome do usuário atualmente conectado ao painel.**
-5. 🚀 **Mais melhorias internas...**
+5. 🚀 **O aplicativo agora envia notificações ao sistema, informando que o dispositivo está online/conectado.**
+6. 🚀 **Mais melhorias internas...**
 
 ### 🔥🚀 **DTUNNEL 4.3+ - OFICIAL** 🔥🚀
 
