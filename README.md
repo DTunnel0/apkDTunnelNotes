@@ -1,3 +1,8 @@
+### 🔥🚀 **DTUNNEL 4.3.11 - LANÇAMENTO OFICIAL** 🔥🚀
+
+1. 🚀 **Correção de Bug**: Problema resolvido em que o aplicativo travava ao reconectar com a opção "visto por último" ativada.
+2. 🚀 **Melhorias**: Aperfeiçoamento do alerta de limite excedido para uma experiência mais eficiente.
+
 ### 🔥🚀 **DTUNNEL 4.3.10 - OFICIAL** 🔥🚀
 
 1. 🚀 **Novo sistema para pegar o ID do dispositivo**
