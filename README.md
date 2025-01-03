@@ -1,3 +1,26 @@
+### 🔥🚀 **DTUNNEL 4.3.12 - LANÇAMENTO OFICIAL** 🔥🚀
+
+#### 🆕 **Novidades desta versão**:
+1. **Nova funcionalidade de CDN**:
+   - Agora o aplicativo **obtém automaticamente uma lista de CDNs do sistema**, garantindo maior flexibilidade.  
+   - Caso o vendedor tenha cadastrado uma lista de CDNs ela sera utilizada.  
+   - `[cdn]`: Utiliza a **primeira CDN da lista** como padrão.  
+   - `[cdn_rotate]`: Implementada a **rotação automática de CDNs** para alternar entre as opções disponíveis.  
+   - `[cdn_random]`: Adicionada a funcionalidade de **seleção aleatória de CDNs**, permitindo maior dinamismo.  
+
+2. **Payload aprimorada**:
+   - Novas chaves adicionadas para suportar as funcionalidades de CDN diretamente na payload.  
+
+3. **Correções e melhorias**:
+   - 🚀 **Correção de Bug**: Problema resolvido em que o aplicativo travava ao reconectar com a opção "visto por último" ativada.  
+   - 🚀 **Melhorias**: Aperfeiçoamento do alerta de limite excedido para uma experiência mais eficiente.  
+
+4. **Outras melhorias gerais**:
+   - Otimizações internas para garantir **maior estabilidade e desempenho** do aplicativo.  
+   - **Correções menores** reportadas pelos usuários para melhorar a experiência geral.  
+
+🎉 **Atualize agora e aproveite todas as novidades!**
+
 ### 🔥🚀 **DTUNNEL 4.3.11 - LANÇAMENTO OFICIAL** 🔥🚀
 
 1. 🚀 **Correção de Bug**: Problema resolvido em que o aplicativo travava ao reconectar com a opção "visto por último" ativada.
