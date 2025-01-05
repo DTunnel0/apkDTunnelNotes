@@ -1,3 +1,19 @@
+### 🔥🚀 **DTUNNEL 4.3.13 - ATUALIZAÇÃO EM TEMPO REAL** 🔥🚀
+
+#### 🆕 **Novidades desta versão**:
+
+1. **Atualização em Tempo Real**:
+   - O aplicativo agora atualiza automaticamente caso o **token gerado pelo Firebase** esteja válido e salvo no sistema de notificações do DTunnel.  
+   - Essa funcionalidade garante que as informações do sistema estejam sempre sincronizadas sem a necessidade de atualizações manuais.  
+
+2. **Melhorias em Configurações e Textos**:
+   - **Configurações do aplicativo** ajustadas para maior clareza e facilidade de uso.  
+   - **Textos do aplicativo** revisados para melhor comunicação com o usuário.  
+
+3. **Otimizações Internas**:
+   - Ajustes para melhorar a **estabilidade e desempenho geral**.  
+   - Correções de bugs menores relatados pela comunidade.  
+
 ### 🔥🚀 **DTUNNEL 4.3.12 - LANÇAMENTO OFICIAL** 🔥🚀
 
 #### 🆕 **Novidades desta versão**:
