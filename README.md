@@ -1,3 +1,17 @@
+### 🔥🚀 **DTUNNEL 4.3.14 - LANÇAMENTO OFICIAL** 🔥🚀
+
+- **Melhorias ao salvar device:**  
+  Aperfeiçoamento no processo de armazenamento do device no sistema DTunnel.
+
+- **Melhorias ao salvar token FCM:**  
+  Otimização no salvamento do token do Firebase Cloud Messaging no sistema DTunnel.
+
+- **Obtenção da localização do usuário:**  
+  Agora o aplicativo coleta a localização do usuário (necessita permissão explícita).
+
+- **Outras melhorias internas:**  
+  Diversos ajustes e refinamentos para garantir uma experiência mais fluida e estável.
+
 ### 🔥🚀 **DTUNNEL 4.3.13 - ATUALIZAÇÃO EM TEMPO REAL** 🔥🚀
 
 #### 🆕 **Novidades desta versão**:
