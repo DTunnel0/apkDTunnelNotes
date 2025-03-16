@@ -1,3 +1,25 @@
+### 🔥🚀 **DTUNNEL 4.3.16 - LANÇAMENTO OFICIAL** 🔥🚀  
+
+- **`custom_split_delay` adicionado:**  
+  Agora é possível configurar delays personalizados para splits.  
+  Exemplo: `[custom_split_500]` define um delay de 500ms.  
+
+- **Melhoria em todos os splits:**  
+  Todos os métodos de split foram otimizados para melhor desempenho.  
+
+- **Ping aprimorado:**  
+  Ajustes no sistema de ping para maior precisão e estabilidade.  
+
+- **Correção de bug na obtenção do host:**  
+  O problema relacionado à obtenção do host foi corrigido.  
+
+- **Logs não são mais limpos automaticamente ao conectar:**  
+  Agora, os logs não são apagados automaticamente ao clicar em "Conectar" no aplicativo.  
+
+- **Outras melhorias internas:**  
+  Pequenos ajustes e refinamentos para garantir uma experiência mais fluida e estável.
+
+
 ### 🔥🚀 **DTUNNEL 4.3.14 - LANÇAMENTO OFICIAL** 🔥🚀
 
 - **Melhorias ao salvar device:**  
