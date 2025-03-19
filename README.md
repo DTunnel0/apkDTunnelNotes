@@ -24,9 +24,6 @@
 - **Correção na obtenção do host:**  
   Problemas na obtenção do host foram resolvidos.
   
-- **Logs preservados ao conectar:**  
-  Agora os logs não são mais limpos automaticamente ao clicar em "Conectar".
-  
 - **Outras melhorias internas:**  
   Diversos ajustes e refinamentos para uma experiência mais fluida e estável.
 
