@@ -1,23 +1,34 @@
-### 🔥🚀 **DTUNNEL 4.3.16 - LANÇAMENTO OFICIAL** 🔥🚀  
+### 🔥🚀 **DTUNNEL 4.3.16 - LANÇAMENTO OFICIAL** 🔥🚀
 
+#### Bug Fixes:
+- **Correção ao copiar log:**  
+  Agora o aplicativo não vibra infinitamente ao copiar logs.
+
+#### Novidades:
+- **Logs no modo de conexão v2ray (Beta):**  
+  Foram adicionados logs ao modo de conexão v2ray.
+  
+- **Persistência de logs:**  
+  Os logs agora permanecem salvos mesmo quando o app é fechado.
+
+#### Melhorias e Novas Funcionalidades:
 - **`custom_split_delay` adicionado:**  
-  Agora é possível configurar delays personalizados para splits.  
-  Exemplo: `[custom_split_500]` define um delay de 500ms.  
-
-- **Melhoria em todos os splits:**  
-  Todos os métodos de split foram otimizados para melhor desempenho.  
-
+  É possível configurar delays personalizados para splits.  
+  *Exemplo:* `[custom_split_500]` define um delay de 500ms.
+  
+- **Otimização dos splits:**  
+  Todos os métodos de split foram aprimorados para garantir melhor desempenho.
 - **Ping aprimorado:**  
-  Ajustes no sistema de ping para maior precisão e estabilidade.  
-
-- **Correção de bug na obtenção do host:**  
-  O problema relacionado à obtenção do host foi corrigido.  
-
-- **Logs não são mais limpos automaticamente ao conectar:**  
-  Agora, os logs não são apagados automaticamente ao clicar em "Conectar" no aplicativo.  
-
+  Ajustes no sistema de ping proporcionam maior precisão e estabilidade.
+  
+- **Correção na obtenção do host:**  
+  Problemas na obtenção do host foram resolvidos.
+  
+- **Logs preservados ao conectar:**  
+  Agora os logs não são mais limpos automaticamente ao clicar em "Conectar".
+  
 - **Outras melhorias internas:**  
-  Pequenos ajustes e refinamentos para garantir uma experiência mais fluida e estável.
+  Diversos ajustes e refinamentos para uma experiência mais fluida e estável.
 
 
 ### 🔥🚀 **DTUNNEL 4.3.14 - LANÇAMENTO OFICIAL** 🔥🚀
