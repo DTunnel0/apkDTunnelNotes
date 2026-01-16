@@ -1,45 +1,34 @@
-### 🇧🇷 🔥🚀 **DTUNNEL 4.5.4 – ATUALIZAÇÃO DISPONÍVEL**
 
-#### Melhorias e Novas Funcionalidades:
+## 🇧🇷 **PORTUGUÊS (PT-BR)**
 
-* **Removida detecção de root, ADB e bootloader desbloqueado**
-* **Melhorias no Limiter e CheckUser**
+### 🔥🚀 **DTUNNEL 4.5.9 – JÁ DISPONÍVEL**
 
-  * Agora ambos fazem seu trabalho em uma única chamada para o servidor
-  * No Limiter foi removida a notificação de *“Verificando usuário”*
-  * Agora é exibida uma notificação com as informações do usuário quando a checagem ocorre em segundo plano
-* **Push notifications totalmente refeitas**
-* **Novo ícone de notificação**
-* **Melhorias internas** – ajustes e otimizações para maior performance, estabilidade e redução de falhas
+#### Melhorias:
+
+* Importantes melhorias no código interno, aumentando performance e estabilidade
+* Bibliotecas atualizadas para as versões mais recentes
+* Múltiplas correções de bugs, garantindo maior confiabilidade
 
 ---
 
-### 🇺🇸 🔥🚀 **DTUNNEL 4.5.4 – UPDATE AVAILABLE**
+## 🇺🇸 **ENGLISH (US)**
 
-#### Improvements and New Features:
+### 🔥🚀 **DTUNNEL 4.5.9 – NOW AVAILABLE**
 
-* **Removed detection of root, ADB and unlocked bootloader**
-* **Limiter and CheckUser improvements**
+#### Improvements:
 
-  * Now both perform their tasks in a single server call
-  * The *“Checking user”* notification was removed from Limiter
-  * A notification is now shown with user info when the check runs in the background
-* **Push notifications completely redone**
-* **New notification icon**
-* **Internal improvements** – tweaks and optimizations for better performance, stability and fewer failures
+* Major internal code improvements for enhanced performance and stability
+* Libraries updated to the latest versions
+* Multiple bug fixes ensuring greater reliability
 
 ---
 
-### 🇪🇸 🔥🚀 **DTUNNEL 4.5.4 – ACTUALIZACIÓN DISPONIBLE**
+## 🇪🇸 **ESPAÑOL**
 
-#### Mejoras y Nuevas Funcionalidades:
+### 🔥🚀 **DTUNNEL 4.5.9 – YA DISPONIBLE**
 
-* **Eliminada la detección de root, ADB y bootloader desbloqueado**
-* **Mejoras en Limiter y CheckUser**
+#### Mejoras:
 
-  * Ahora ambos realizan su trabajo en una única llamada al servidor
-  * En Limiter se eliminó la notificación de *“Verificando usuario”*
-  * Ahora se muestra una notificación con la información del usuario cuando la comprobación ocurre en segundo plano
-* **Notificaciones push completamente renovadas**
-* **Nuevo ícono de notificación**
-* **Mejoras internas** – ajustes y optimizaciones para mayor rendimiento, estabilidad y menos fallos
+* Importantes mejoras en el código interno para un mejor rendimiento y estabilidad
+* Bibliotecas actualizadas a sus versiones más recientes
+* Múltiples correcciones de errores que garantizan mayor confiabilidad
